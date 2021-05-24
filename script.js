@@ -28,7 +28,7 @@ const person = {
 
 
 }
-console.log(Number);
+
 
 
 // завдання 5 
